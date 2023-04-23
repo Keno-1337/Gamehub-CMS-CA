@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" class="browse_bg">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Gamehub browse games" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Gamehub | Browse</title>
+    <script src="https://kit.fontawesome.com/64a7c5ccad.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <header>
+      <div class="navdiv">
+        <input type="checkbox" id="menu-checkbox" />
+        <label for="menu-checkbox" class="hamburger-icon"><i class="fas fa-bars"></i></label>
+        <nav>
+          <a href="index.html">Home</a>
+          <a href="browse.html">Browse</a>
+          <a href="Contact.html">Contact</a>
+          <a href="Ourmission.html">Our History</a>
+        </nav>
+      </div>
+    </header>
+    <section class="title">
+      <a href="index.html">
+        <img src="/wp-content/images/GameHub_Logo.png" alt="Gamehub Logo" class="header" />
+      </a>
+    </section>
+    <div class="BrowseHeader">
+      <h1>Browse our games</h1>
+    </div>
+    <div class="featureCard">
+    <h3 class="BrowseHeader">Featured games</h3>
+        <div class="testing" id="featuredProductList"></div>
+  </div>
+    <div class="BrowseContainer" id="product-list">
+    <p onclick="showDetails('${product.id}')"></p>
+    <script src="js/restAPI.js"></script></div>
+  </body>
+</html>
