@@ -23,8 +23,6 @@ The site needs to have every page listed in the site architecture on your chosen
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
 - [Visual studio code](https://code.visualstudio.com/)
   ## Languages
    - HTML
