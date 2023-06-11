@@ -1,29 +1,34 @@
 
-# Gamehub
+# Gamehub<img width="960" alt="gamehub-screen" src="https://github.com/Keno-1337/Gamehub-CMS-CA/assets/114931684/1be661d1-289f-49ee-b161-474df0e8a5eb">
 
 
-<img width="960" alt="gamehub-screen" src="https://github.com/Keno-1337/Gamehub-CMS-CA/assets/114931684/94597b48-2dfe-4bab-a8da-86312d435d44">
-
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
 An e-commerce website built using HTML, CSS and JS
 
 ## Description
 
 Add a more detailed description of what your project entails and set out to do.
+As part of my front-end studies we were tasked with creating an e-commerce webpage. We had a couple of different ideas to choose from - I chose a video game retailer.
+This is the brief we were given.
 
-You can add some bullet points if you'd like to:
+"You must deliver a properly functioning, responsive website for the assignment brief you chose in Design 1.
 
-- List item 1
-- List item 2
-- List item 3
+The site needs to have every page listed in the site architecture on your chosen brief. Certain functionality requiring JavaScript can be mimicked; for example, a login page could link across from the ‘Sign in’ button.
+
+  - The HTML should be semantic and neat.
+   - The CSS should follow the DRY principle and be easy to read.
+    - The website should be responsive and look good at every screen size with no horizontal scrollbars. Use Flexbox and CSS Grids where appropriate. Please do not use a CSS framework like Bootstrap; we want to see that you can build responsive sites without the help of a framework.
+    - The site should be WCAG compliant, and accessibility should be taken into account.
+    - Each page should have a unique <meta name="description">, <title>, and <h1>.
+    - You should not use copied code in your submission. All code submitted must be written by yourself. You may use external sources to show you how to achieve specific effects, which should be included in your report."
+
+
 
 ## Built With
 
 You can list a the tech stack that you've used over here
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+- [Visual studio code](https://code.visualstudio.com/)
 
 ## Getting Started
 
@@ -34,7 +39,7 @@ This is where you list how to get the project started. It typically just include
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone git@github.com:Keno-1337/Gamehub-CMS-CA
 ```
 
 2. Install the dependencies:
@@ -43,15 +48,6 @@ git clone git@github.com:NoroffFEU/portfolio-1-example.git
 npm install
 ```
 
-### Running
-
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
 
 ## Contributing
 
@@ -61,14 +57,6 @@ Here you can detail any information you want to provide regarding contributing t
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Twitter page](www.twitter.com)
+E-mail:
+Ellingsenmarcus@gmail.com
 
-[My LinkedIn page](www.linkedin.com)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
-
-## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
