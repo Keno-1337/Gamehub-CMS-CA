@@ -18,7 +18,6 @@ The site needs to have every page listed in the site architecture on your chosen
   - The CSS should follow the DRY principle and be easy to read.
   - The website should be responsive and look good at every screen size with no horizontal scrollbars. Use Flexbox and CSS Grids where appropriate. Please do not use a CSS       framework like Bootstrap; we want to see that you can build responsive sites without the help of a framework.
   - The site should be WCAG compliant, and accessibility should be taken into account.
-  - Each page should have a unique <meta name="description">, <title>, and <h1>.
 
 
 
