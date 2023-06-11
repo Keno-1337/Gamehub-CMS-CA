@@ -33,8 +33,6 @@ The site needs to have every page listed in the site architecture on your chosen
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
-
 E-mail:
 Ellingsenmarcus@gmail.com
 
